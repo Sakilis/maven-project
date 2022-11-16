@@ -11,4 +11,4 @@ We added a prod branch.
 Autobuild trigger on 27th Feb 2021.
 
 Triggering autobuild on 31st March 2022
-this trigger will change auto build and deploy the webapp.
+this trigger will change auto build and deploy the webapp
